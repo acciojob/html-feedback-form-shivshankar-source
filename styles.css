@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+form{
+	border:2px solid red;
+	padding:10px 30px
+}
+
+input{
+	display:block;
+}
+label{
+	display:inline;
+}
